@@ -1,0 +1,15 @@
+D:\4 семестр\Пацей\Labs\Lab13\Lab13\bin\Debug\Lab13.exe.config
+D:\4 семестр\Пацей\Labs\Lab13\Lab13\bin\Debug\Lab13.exe
+D:\4 семестр\Пацей\Labs\Lab13\Lab13\bin\Debug\Lab13.pdb
+D:\4 семестр\Пацей\Labs\Lab13\Lab13\obj\Debug\Lab13.csprojAssemblyReference.cache
+D:\4 семестр\Пацей\Labs\Lab13\Lab13\obj\Debug\MainWindow.g.cs
+D:\4 семестр\Пацей\Labs\Lab13\Lab13\obj\Debug\App.g.cs
+D:\4 семестр\Пацей\Labs\Lab13\Lab13\obj\Debug\Lab13_MarkupCompile.cache
+D:\4 семестр\Пацей\Labs\Lab13\Lab13\obj\Debug\Lab13_MarkupCompile.lref
+D:\4 семестр\Пацей\Labs\Lab13\Lab13\obj\Debug\MainWindow.baml
+D:\4 семестр\Пацей\Labs\Lab13\Lab13\obj\Debug\Lab13.g.resources
+D:\4 семестр\Пацей\Labs\Lab13\Lab13\obj\Debug\Lab13.Properties.Resources.resources
+D:\4 семестр\Пацей\Labs\Lab13\Lab13\obj\Debug\Lab13.csproj.GenerateResource.cache
+D:\4 семестр\Пацей\Labs\Lab13\Lab13\obj\Debug\Lab13.csproj.CoreCompileInputs.cache
+D:\4 семестр\Пацей\Labs\Lab13\Lab13\obj\Debug\Lab13.exe
+D:\4 семестр\Пацей\Labs\Lab13\Lab13\obj\Debug\Lab13.pdb

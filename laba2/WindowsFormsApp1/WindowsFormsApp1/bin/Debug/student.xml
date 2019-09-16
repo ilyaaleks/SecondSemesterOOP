@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <FIO>Алексеев Илья укпуп</FIO>
+    <age>818</age>
+    <Specialty>ПОИБМС</Specialty>
+    <DateofBirthday>2016-12-15T07:05:14</DateofBirthday>
+    <course>2</course>
+    <group>7</group>
+    <averagemark>4</averagemark>
+    <gender>Мужской</gender>
+    <adress>
+      <Adress>орпмпрли</Adress>
+    </adress>
+    <dopinfo>роьиоли</dopinfo>
+  </Student>
+</ArrayOfStudent>

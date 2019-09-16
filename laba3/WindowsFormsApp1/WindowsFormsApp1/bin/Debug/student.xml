@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <FIO>Алексеев Илья Александрович</FIO>
+    <age>1750</age>
+    <Specialty>ИСИТ</Specialty>
+    <DateofBirthday>2014-06-04T00:00:00</DateofBirthday>
+    <course>2</course>
+    <group>7</group>
+    <averagemark>7</averagemark>
+    <gender>Мужской</gender>
+    <adress>
+      <Adress>Орша</Adress>
+    </adress>
+    <dopinfo />
+  </Student>
+  <Student>
+    <FIO>Шеремета Артем Юрьевич</FIO>
+    <age>3206</age>
+    <Specialty>ПОИТ</Specialty>
+    <DateofBirthday>2010-06-09T00:00:00</DateofBirthday>
+    <course>4</course>
+    <group>5</group>
+    <averagemark>2</averagemark>
+    <gender>Мужской</gender>
+    <adress>
+      <Adress>Борисов</Adress>
+    </adress>
+    <dopinfo />
+  </Student>
+  <Student>
+    <FIO>Самолазов Герман Русланович</FIO>
+    <age>3555</age>
+    <Specialty>ИСИТ</Specialty>
+    <DateofBirthday>2009-06-25T00:00:00</DateofBirthday>
+    <course>1</course>
+    <group>7</group>
+    <averagemark>5</averagemark>
+    <gender>Мужской</gender>
+    <adress>
+      <Adress>Чижовка</Adress>
+    </adress>
+    <dopinfo />
+  </Student>
+</ArrayOfStudent>

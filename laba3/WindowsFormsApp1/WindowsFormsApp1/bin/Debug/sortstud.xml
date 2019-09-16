@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Student>
+  <FIO>Алексеев Илья Александрович</FIO>
+  <age>1750</age>
+  <Specialty>ИСИТ</Specialty>
+  <DateofBirthday>2014-06-04T00:00:00</DateofBirthday>
+  <course>2</course>
+  <group>7</group>
+  <averagemark>7</averagemark>
+  <gender>Мужской</gender>
+  <adress>
+    <Adress>Орша</Adress>
+  </adress>
+  <dopinfo />
+</Student>udent>

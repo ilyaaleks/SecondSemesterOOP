@@ -1,0 +1,15 @@
+D:\4 семестр\Пацей\Labs\Lab15\Lab15\bin\Debug\Lab15.exe.config
+D:\4 семестр\Пацей\Labs\Lab15\Lab15\bin\Debug\Lab15.exe
+D:\4 семестр\Пацей\Labs\Lab15\Lab15\bin\Debug\Lab15.pdb
+D:\4 семестр\Пацей\Labs\Lab15\Lab15\obj\Debug\Lab15.csprojAssemblyReference.cache
+D:\4 семестр\Пацей\Labs\Lab15\Lab15\obj\Debug\MainWindow.g.cs
+D:\4 семестр\Пацей\Labs\Lab15\Lab15\obj\Debug\App.g.cs
+D:\4 семестр\Пацей\Labs\Lab15\Lab15\obj\Debug\Lab15_MarkupCompile.cache
+D:\4 семестр\Пацей\Labs\Lab15\Lab15\obj\Debug\Lab15_MarkupCompile.lref
+D:\4 семестр\Пацей\Labs\Lab15\Lab15\obj\Debug\MainWindow.baml
+D:\4 семестр\Пацей\Labs\Lab15\Lab15\obj\Debug\Lab15.g.resources
+D:\4 семестр\Пацей\Labs\Lab15\Lab15\obj\Debug\Lab15.Properties.Resources.resources
+D:\4 семестр\Пацей\Labs\Lab15\Lab15\obj\Debug\Lab15.csproj.GenerateResource.cache
+D:\4 семестр\Пацей\Labs\Lab15\Lab15\obj\Debug\Lab15.csproj.CoreCompileInputs.cache
+D:\4 семестр\Пацей\Labs\Lab15\Lab15\obj\Debug\Lab15.exe
+D:\4 семестр\Пацей\Labs\Lab15\Lab15\obj\Debug\Lab15.pdb
